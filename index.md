@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to NIF Guides
 
-You can use the [editor on GitHub](https://github.com/hmshub/nifGuides.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We're trying something new! We've created a repository for guides to help researchers (that's you) get the most out of [our core](https://nif.hms.harvard.edu/equipment-scheduling/equipment). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+We'll start by adding basic instruction sets for our existing microscopes. Then we'll look to add specific deep dives into advanced 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
