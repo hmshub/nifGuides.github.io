@@ -15,5 +15,5 @@ defaults:
       layout: "post"
   - scope:
       path: ""
-      values:
+    values:
       layout: "default"
