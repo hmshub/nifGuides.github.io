@@ -1,3 +1,6 @@
+url: hmshub.github.io
+baseurl: /nifGuides.github.io
+
 collections:
   authors:
     output: true
