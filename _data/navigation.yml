@@ -1,8 +1,8 @@
 - name: Home
   link: /
 - name: About
-  link: /about.html
+  link: nifGuides.github.io/about.html
 - name: Blog
-  link: /blog.html
+  link: nifGuides.github.io/blog.html
 - name: Staff
-  link: /staff.html
+  link: nifGuides.github.io/staff.html
