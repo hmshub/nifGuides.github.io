@@ -2,6 +2,11 @@ collections:
   authors:
     output: true
 
+theme: "just-the-docs"
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: "dark"
+
 defaults:
   - scope:
       path: ""
