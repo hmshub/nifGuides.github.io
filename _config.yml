@@ -2,7 +2,7 @@ collections:
   authors:
     output: true
 
-theme: "just-the-docs"
+theme: "jekyll-theme-modernist"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: "dark"
