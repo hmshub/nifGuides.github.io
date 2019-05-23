@@ -1,8 +1,0 @@
-source "https://rubygems.org"
-
-# Specify your gem's dependencies in nifGuides.gemspec
-gemspec
-
-gem 'jekyll'
-gem 'github-pages'
-gem 'just-the-docs'
